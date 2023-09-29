@@ -20,7 +20,7 @@ Practica 1 smx2
 |Google sheats |✔️|
 |Google Calendar |📅|
 |Google Meet |💻|
-|... | |...|
+|... |...|
 
 6. ¿Qué es HTML ?
 
