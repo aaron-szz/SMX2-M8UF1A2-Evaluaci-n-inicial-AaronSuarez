@@ -1,7 +1,7 @@
 # SMX2-M8UF1A2-Evaluaci-n-inicial-AaronSuarez
 Practica 1 smx2
 
-## Evalucion inicial
+## Evaluación inicial
 
 1. ¿Qué es una página web?
 
