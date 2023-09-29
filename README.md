@@ -11,7 +11,7 @@ Practica 1 smx2
 
 4. ¿Qué es una herramienta ofimática?   
 
-5. [herramientas de google](https://www.google.com/intl/es-419/chrome/browser-tools/)"Descubre las herramientas integradas del navegador google"
+5. [herramientas de google](https://www.google.com/intl/es-419/chrome/browser-tools/)
 
 |Aplicaciones  |Visto |
 |----------|----------:|
