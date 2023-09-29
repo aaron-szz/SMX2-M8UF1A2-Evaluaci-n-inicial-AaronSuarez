@@ -4,14 +4,14 @@ Practica 1 smx2
 ## Evalucion inicial
 
 1. ¿Qué es una página web?
-    - 
+
 2. ¿Qué es un sitio web?
-    - 
+
 3. ¿Qué es una aplicación web?
-    - 
+
 4. ¿Qué es una herramienta ofimática?   
-    - ç
-5. [herram](https://www.google.com/intl/es-419/chrome/browser-tools/)"Herramientas de google"
+
+5. [herramientas de google](https://www.google.com/intl/es-419/chrome/browser-tools/)"Descubre las herramientas integradas del navegador google"
 
 |Aplicaciones  |Visto |
 |----------|----------:|
