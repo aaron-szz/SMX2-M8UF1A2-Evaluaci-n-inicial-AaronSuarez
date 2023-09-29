@@ -31,7 +31,9 @@ Son aquellos programas o aplicaciones que nos permiten manipular informáticamen
 |... |...|
 
 6. ¿Qué es HTML ?
+
 Es el código que se utiliza para estructurar y desplegar una página web y sus contenidos.
+
 ``` 
 <!DOCTYPE html>
 <html lang="en">
